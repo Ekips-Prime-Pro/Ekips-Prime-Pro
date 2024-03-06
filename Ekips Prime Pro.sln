@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0}") = "Ekips Prime Pro Compiler", "Ekips Prime Pro Compiler\Ekips Prime Pro Compiler.wixproj", "{C212C1FF-79E3-4A3C-AB9C-5BAA46E6D838}"
+Project("{B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0}") = "Ekips Prime Pro Language", "Ekips Prime Pro Language\Ekips Prime Pro Language.wixproj", "{C212C1FF-79E3-4A3C-AB9C-5BAA46E6D838}"
 EndProject
 Project("{B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0}") = "Ekips Prime Pro Editor", "Ekips Prime Pro Editor\Ekips Prime Pro Editor.wixproj", "{B18EE13E-12EB-4388-A9EC-CE89308449B3}"
 EndProject
