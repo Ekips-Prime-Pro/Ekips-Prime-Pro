@@ -4,6 +4,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="WixToolset.Bal.wixext" Version="4.0.4" />
+	<PackageReference Include="WixToolset.Bal.wixext" Version="4.0.4" />
+	<PackageReference Include="..\Ekips Prime Pro Language\Ekips Prime Pro Language.wixproj" />
+	<!-- <PackageReference Include="..\Ekips Prime Pro Editor\Ekips Prime Pro Editor.wixproj" /> -->
   </ItemGroup>
 </Project>
