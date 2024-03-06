@@ -1,9 +1,0 @@
-﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
-  <Package Name="Ekips Prime Pro Editor" Manufacturer="Ekips Prime Pro" Version="1.0.0.0" UpgradeCode="3fc94486-ebbb-4907-9afc-083f4c1b29a5">
-    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
-
-    <Feature Id="Main">
-      <ComponentGroupRef Id="Components" />
-    </Feature>
-  </Package>
-</Wix>
