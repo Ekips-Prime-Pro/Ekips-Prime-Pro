@@ -21,7 +21,7 @@ To use the Ekips Prime Pro, you need to install the compiler and the editor. Fol
 3. If you have any issues please create an [issue](https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro/issues/new) on our GitHub page.
 
 ## License
-See our [License](https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro/blob/master/LICENSE.txt) file on GitHub.
+See our [License](https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro?tab=Apache-2.0-1-ov-file#readme) file on GitHub.
 <br><br>
 David Frings & Maximilian Gründinger.
 
