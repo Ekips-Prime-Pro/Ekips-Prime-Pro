@@ -1,6 +1,6 @@
-[submodule "Ekips Prime Pro Language/Ekips-Prime-Pro-Language"]
-	path = Ekips Prime Pro Language/Ekips-Prime-Pro-Language
-	url = git@github.com:Ekips-Prime-Pro/Ekips-Prime-Pro-Language.git
-[submodule "Ekips Prime Pro Editor/Ekips-Prime-Pro-Editor"]
-	path = Ekips Prime Pro Editor/Ekips-Prime-Pro-Editor
-	url = git@github.com:Ekips-Prime-Pro/Ekips-Prime-Pro-Editor.git
+[submodule "Ekips Prime Pro Language/src"]
+	path = Ekips Prime Pro Language/src
+	url = https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-Language.git
+[submodule "Ekips Prime Pro Editor/src"]
+	path = Ekips Prime Pro Editor/src
+	url = https://github.com/Ekips-Prime-Pro/Ekips-Prime-Pro-Editor.git
