@@ -1,0 +1,5 @@
+﻿<Project Sdk="WixToolset.Sdk/4.0.4">
+  <PropertyGroup>
+    <PreBuildEvent>start ..\..\..\compiler.bat</PreBuildEvent>
+  </PropertyGroup>
+</Project>

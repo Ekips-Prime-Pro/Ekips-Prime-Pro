@@ -1,0 +1,14 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:bal="http://wixtoolset.org/schemas/v4/wxs/bal">
+	<Bundle Name="Ekips Prime Pro" Manufacturer="Ekips Prime Pro" Version="1.0.0.0" UpgradeCode="2a6577ac-ab19-4235-be89-1ea8885fa50b">
+		<BootstrapperApplication>
+			<bal:WixStandardBootstrapperApplication LicenseUrl="https://www.example.com/license" Theme="hyperlinkLicense" />
+		</BootstrapperApplication>
+
+	<Chain>
+		  <!-- TODO: Define the list of chained packages. -->
+		  <MsiPackage SourceFile="C:\Users\david\Desktop\Ekips Prime Pro\Ekips Prime Pro Language\bin\x86\Release\en-US\Ekips Prime Pro Language.msi" />
+		  <!-- <MsiPackage SourceFile="C:\Users\david\Desktop\Ekips Prime Pro\Ekips Prime Pro Editor\bin\x86\Release\en-US\Ekips Prime Pro Editor.msi" /> -->
+	</Chain>
+
+  </Bundle>
+</Wix>

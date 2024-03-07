@@ -1,0 +1,28 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="Components" Directory="INSTALLFOLDER">
+      <Component>
+        <File Source="./dist/compiler_gui.exe" />
+	  </Component>
+	  <Component>
+		<File Source="./src/Code/ai.fll" />
+	  </Component>
+	  <Component>
+		<File Source="./src/Code/calibration.fll" />
+	  </Component>
+	  <Component>
+		<File Source="./src/Code/module.fll" />
+	  </Component>
+	  <Component>
+		<File Source="./src/Code/motor.fll" />
+	  </Component>
+	  <Component>
+		<File Source="./src/Code/sensor.fll" />
+	  </Component>
+	  <Component>
+		<File Source="./src/Code/variables.fll" />
+	  </Component>
+      
+    </ComponentGroup>
+  </Fragment>
+</Wix>

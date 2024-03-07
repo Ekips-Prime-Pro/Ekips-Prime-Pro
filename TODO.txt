@@ -1,0 +1,1 @@
+that you can put in the [Official Spike Prime Software](https://education.lego.com/de-de/downloads/spike-app/software/), this will be integratet in the Spike Prime Pro Compiler -> v2.0, also the full ai functionalities will be added in v3.0
